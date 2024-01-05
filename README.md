@@ -46,5 +46,5 @@ Add products seamlessly using the Admin Panel.
 ![Add Product](https://i.ibb.co/wL6wLNY/Screenshot-2024-01-05-165836.png)
 
 
-Contribution
+### Contribution:
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
